@@ -1,0 +1,1 @@
+# kopia_testowanie_oprogramowania
